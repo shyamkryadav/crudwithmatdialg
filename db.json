@@ -15,5 +15,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "employee": [
+    {
+      "firstName": "shyam sundar",
+      "lastName": "yadav",
+      "email": "dffddsfsa",
+      "dob": "2023-10-11T18:15:00.000Z",
+      "gender": "others",
+      "education": "Materic",
+      "company": "dfgs",
+      "experience": 2342,
+      "package": 32423,
+      "id": 6
+    }
+  ]
 }
